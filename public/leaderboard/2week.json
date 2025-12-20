@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766251630301,
+  "updatedAt": 1766262971399,
   "startDate": "2025-12-06",
   "endDate": "2025-12-20",
   "hiddenRoles": [],
@@ -210,11 +210,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 13,
+      "total_points": 11,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 2,
+          "points": 4
         },
         "PR merged": {
           "count": 1,
@@ -233,11 +233,6 @@
         },
         {
           "date": "2025-12-10",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-06",
           "count": 1,
           "points": 2
         },
@@ -772,6 +767,26 @@
       ]
     },
     {
+      "username": "sai-ganesh-1706",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-20",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "kris70lesgo",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4",
@@ -992,51 +1007,6 @@
       ]
     },
     {
-      "username": "Dev10-sys",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/215909991?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-06",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Aakansha-Chavan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-06",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "ManshaAgarwal716",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/218825298?v=4",
@@ -1056,6 +1026,26 @@
         },
         {
           "date": "2025-12-10",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Aakansha-Chavan",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-19",
           "count": 1,
           "points": 1
         }
@@ -1083,6 +1073,17 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3750356959",
+      "type": "PR opened",
+      "title": "Prevent redundant event rescheduling in simulator event queue",
+      "occured_at": "2025-12-20T19:53:17Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6493",
+      "contributor": "sai-ganesh-1706",
+      "contributor_name": "sai-ganesh-1706",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4"
+    },
     {
       "slug": "pr-opened-3750236395",
       "type": "PR opened",
@@ -1667,28 +1668,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4"
     },
     {
-      "slug": "pr-opened-3702243563",
-      "type": "PR opened",
-      "title": "Fix: Navbar Features link not navigating to homepage section",
-      "occured_at": "2025-12-06T19:23:51Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6440",
-      "contributor": "Dev10-sys",
-      "contributor_name": "Dev10-sys",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/215909991?v=4"
-    },
-    {
-      "slug": "pr-opened-3702140992",
-      "type": "PR opened",
-      "title": "Fix missing project_url error by adding shallow routes for projects",
-      "occured_at": "2025-12-06T18:13:43Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6439",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -2116,17 +2095,6 @@
       "contributor": "ys748477-dotcom",
       "contributor_name": "ys748477-dotcom",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-    },
-    {
-      "slug": "issue-opened-3702104745",
-      "type": "Issue opened",
-      "title": "UI Bug: Button color transition failure on hover (Green to Red)",
-      "occured_at": "2025-12-06T17:42:02Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/Blog/issues/255",
-      "contributor": "Aakansha-Chavan",
-      "contributor_name": "Aakansha-Chavan",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
     }
   ],
   "topByActivity": {}

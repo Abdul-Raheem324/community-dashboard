@@ -1,6 +1,6 @@
 {
   "period": "2month",
-  "updatedAt": 1766251645362,
+  "updatedAt": 1766262980021,
   "startDate": "2025-10-21",
   "endDate": "2025-12-20",
   "hiddenRoles": [],
@@ -1057,31 +1057,6 @@
       ]
     },
     {
-      "username": "anushkaa-dubey",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-02",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-20",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "hellseye",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168416527?v=4",
@@ -1219,6 +1194,26 @@
           "date": "2025-12-03",
           "count": 1,
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "sai-ganesh-1706",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-20",
+          "count": 1,
+          "points": 2
         }
       ]
     },
@@ -1437,6 +1432,26 @@
       "daily_activity": [
         {
           "date": "2025-12-06",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "anushkaa-dubey",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-02",
           "count": 1,
           "points": 2
         }
@@ -1679,6 +1694,17 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3750356959",
+      "type": "PR opened",
+      "title": "Prevent redundant event rescheduling in simulator event queue",
+      "occured_at": "2025-12-20T19:53:17Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6493",
+      "contributor": "sai-ganesh-1706",
+      "contributor_name": "sai-ganesh-1706",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4"
+    },
     {
       "slug": "pr-opened-3750236395",
       "type": "PR opened",
@@ -2635,17 +2661,6 @@
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "pr-opened-3646087306",
-      "type": "PR opened",
-      "title": "docs: update documentation",
-      "occured_at": "2025-11-20T08:34:36Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/mobile-app/pull/444",
-      "contributor": "anushkaa-dubey",
-      "contributor_name": "anushkaa-dubey",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4"
     },
     {
       "slug": "pr-merged-3750110457",

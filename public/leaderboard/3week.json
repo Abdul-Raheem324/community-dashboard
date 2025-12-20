@@ -1,6 +1,6 @@
 {
   "period": "3week",
-  "updatedAt": 1766251635796,
+  "updatedAt": 1766262973829,
   "startDate": "2025-11-29",
   "endDate": "2025-12-20",
   "hiddenRoles": [],
@@ -113,7 +113,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 32,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
           "count": 8,
@@ -124,8 +124,8 @@
           "points": 10
         },
         "Issue opened": {
-          "count": 6,
-          "points": 6
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -201,11 +201,6 @@
         },
         {
           "date": "2025-11-30",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-11-29",
           "count": 1,
           "points": 1
         }
@@ -1063,6 +1058,26 @@
       ]
     },
     {
+      "username": "sai-ganesh-1706",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-20",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "kris70lesgo",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4",
@@ -1479,6 +1494,17 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3750356959",
+      "type": "PR opened",
+      "title": "Prevent redundant event rescheduling in simulator event queue",
+      "occured_at": "2025-12-20T19:53:17Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6493",
+      "contributor": "sai-ganesh-1706",
+      "contributor_name": "sai-ganesh-1706",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4"
+    },
     {
       "slug": "pr-opened-3750236395",
       "type": "PR opened",
@@ -2982,17 +3008,6 @@
       "occured_at": "2025-11-30T14:44:27Z",
       "points": 1,
       "link": "https://github.com/CircuitVerse/Blog/issues/251",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "issue-opened-3676974694",
-      "type": "Issue opened",
-      "title": "🐞 Bug: Logo Overlaps Text and Footer Year Still Shows 2024 on Blog Page",
-      "occured_at": "2025-11-29T18:07:14Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6370",
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
