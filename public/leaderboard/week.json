@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1766384683273,
+  "updatedAt": 1766406579834,
   "startDate": "2025-12-15",
   "endDate": "2025-12-22",
   "hiddenRoles": [],
@@ -49,54 +49,6 @@
       ]
     },
     {
-      "username": "senutpal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-      "role": "Contributor",
-      "total_points": 11,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Teesta-Mukherjee",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
@@ -128,6 +80,44 @@
           "date": "2025-12-17",
           "count": 1,
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "senutpal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
         }
       ]
     },
@@ -854,17 +844,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
     },
     {
-      "slug": "pr-opened-3729615192",
-      "type": "PR opened",
-      "title": "docs: fix typos and grammar errors across documentation",
-      "occured_at": "2025-12-15T09:46:12Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -1006,17 +985,6 @@
       "contributor": "himanshujays29",
       "contributor_name": "himanshujays29",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
-    },
-    {
-      "slug": "issue-opened-3729512745",
-      "type": "Issue opened",
-      "title": "🐞 Bug : typos and grammar errors across documentation files",
-      "occured_at": "2025-12-15T09:22:14Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6471",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
     }
   ],
   "topByActivity": {}

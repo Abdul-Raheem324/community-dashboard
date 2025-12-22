@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766384685742,
+  "updatedAt": 1766406581705,
   "startDate": "2025-12-08",
   "endDate": "2025-12-22",
   "hiddenRoles": [],
@@ -972,26 +972,6 @@
       ]
     },
     {
-      "username": "jeevansridharan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/181938021?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-08",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "ManshaAgarwal716",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/218825298?v=4",
@@ -1620,17 +1600,6 @@
       "contributor": "senutpal",
       "contributor_name": "senutpal",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-    },
-    {
-      "slug": "pr-opened-3705390180",
-      "type": "PR opened",
-      "title": "UI Cleanup: Improve TestBenchPanel.vue Styling (Fixes #685)",
-      "occured_at": "2025-12-08T09:07:27Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/686",
-      "contributor": "jeevansridharan",
-      "contributor_name": "jeevansridharan",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181938021?v=4"
     },
     {
       "slug": "pr-merged-3750110457",
