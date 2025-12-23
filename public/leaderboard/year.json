@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1766471041404,
+  "updatedAt": 1766493005322,
   "startDate": "2024-12-23",
   "endDate": "2025-12-23",
   "hiddenRoles": [],
@@ -623,41 +623,6 @@
       ]
     },
     {
-      "username": "092vk",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/123629919?v=4",
-      "role": "Contributor",
-      "total_points": 20,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-09-01",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-08-24",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-08-24",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-07-29",
-          "count": 1,
-          "points": 5
-        }
-      ]
-    },
-    {
       "username": "senbo1",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/102225113?v=4",
@@ -741,6 +706,36 @@
       ]
     },
     {
+      "username": "092vk",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/123629919?v=4",
+      "role": "Contributor",
+      "total_points": 15,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-09-01",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-08-24",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-08-24",
+          "count": 1,
+          "points": 5
+        }
+      ]
+    },
+    {
       "username": "ghanshyam2005singh",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
@@ -776,6 +771,49 @@
           "date": "2025-12-08",
           "count": 1,
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-23",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
         }
       ]
     },
@@ -1044,40 +1082,6 @@
         },
         {
           "date": "2025-12-12",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "himanshujays29",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-21",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -2987,6 +2991,17 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
     },
     {
+      "slug": "pr-merged-3751202233",
+      "type": "PR Merged",
+      "title": "Fix typos errors across code and docs",
+      "closed_at": "2025-12-23T08:29:38Z",
+      "points": 5,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+    },
+    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -3722,17 +3737,6 @@
       "contributor": "Nihal4777",
       "contributor_name": "Nihal4777",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4"
-    },
-    {
-      "slug": "pr-merged-3240409353",
-      "type": "PR Merged",
-      "title": "Added GSoC blog post and assets for Project: Enhanced Verilog Support & Stability",
-      "closed_at": "2025-07-29T10:46:22Z",
-      "points": 5,
-      "link": "https://github.com/CircuitVerse/Blog/pull/241",
-      "contributor": "092vk",
-      "contributor_name": "092vk",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/123629919?v=4"
     },
     {
       "slug": "issue-opened-3754466781",

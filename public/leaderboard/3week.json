@@ -1,6 +1,6 @@
 {
   "period": "3week",
-  "updatedAt": 1766471028414,
+  "updatedAt": 1766492993065,
   "startDate": "2025-12-02",
   "endDate": "2025-12-23",
   "hiddenRoles": [],
@@ -338,6 +338,49 @@
       ]
     },
     {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-23",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "Teesta-Mukherjee",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
@@ -636,40 +679,6 @@
         },
         {
           "date": "2025-12-12",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "himanshujays29",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-21",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -1273,26 +1282,6 @@
       ]
     },
     {
-      "username": "anushkaa-dubey",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-02",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Aakansha-Chavan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
@@ -1442,26 +1431,6 @@
       "daily_activity": [
         {
           "date": "2025-12-03",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "harikrishna-au",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-02",
           "count": 1,
           "points": 1
         }
@@ -2273,15 +2242,15 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/204588257?v=4"
     },
     {
-      "slug": "pr-opened-3685243557",
-      "type": "PR opened",
-      "title": "docs(readme) : improve setup instructions and clarity",
-      "occured_at": "2025-12-02T10:46:32Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/mobile-app/pull/446",
-      "contributor": "anushkaa-dubey",
-      "contributor_name": "anushkaa-dubey",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4"
+      "slug": "pr-merged-3751202233",
+      "type": "PR Merged",
+      "title": "Fix typos errors across code and docs",
+      "closed_at": "2025-12-23T08:29:38Z",
+      "points": 5,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
     },
     {
       "slug": "pr-merged-3750110457",
@@ -2887,17 +2856,6 @@
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "issue-opened-3685562886",
-      "type": "Issue opened",
-      "title": "Simulator WebView fails to handle app navigation (Sign Out, Edit, etc.)",
-      "occured_at": "2025-12-02T12:16:47Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/mobile-app/issues/447",
-      "contributor": "harikrishna-au",
-      "contributor_name": "harikrishna-au",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4"
     }
   ],
   "topByActivity": {}

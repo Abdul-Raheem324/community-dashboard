@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766471023519,
+  "updatedAt": 1766492990098,
   "startDate": "2025-12-09",
   "endDate": "2025-12-23",
   "hiddenRoles": [],
@@ -10,11 +10,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 25,
+      "total_points": 23,
       "activity_breakdown": {
         "PR opened": {
-          "count": 6,
-          "points": 12
+          "count": 5,
+          "points": 10
         },
         "PR merged": {
           "count": 2,
@@ -48,11 +48,6 @@
         },
         {
           "date": "2025-12-11",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-09",
           "count": 1,
           "points": 2
         },
@@ -136,6 +131,49 @@
         },
         {
           "date": "2025-12-18",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-23",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -283,35 +321,6 @@
       ]
     },
     {
-      "username": "ghanshyam2005singh",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-09",
-          "count": 1,
-          "points": 5
-        }
-      ]
-    },
-    {
       "username": "Radhikaa-chauhan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
@@ -390,36 +399,22 @@
       ]
     },
     {
-      "username": "himanshujays29",
+      "username": "ghanshyam2005singh",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
       "role": "Contributor",
       "total_points": 5,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
+        "PR merged": {
           "count": 1,
-          "points": 1
+          "points": 5
         }
       },
       "daily_activity": [
         {
-          "date": "2025-12-21",
+          "date": "2025-12-09",
           "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 1
+          "points": 5
         }
       ]
     },
@@ -606,31 +601,6 @@
           "date": "2025-12-12",
           "count": 1,
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "akritah",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/69254659?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-09",
-          "count": 1,
-          "points": 2
         }
       ]
     },
@@ -1535,48 +1505,15 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/187398217?v=4"
     },
     {
-      "slug": "pr-opened-3710509897",
-      "type": "PR opened",
-      "title": "refactor: convert table2csv.js to TypeScript",
-      "occured_at": "2025-12-09T11:44:38Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/692",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-    },
-    {
-      "slug": "pr-opened-3710494907",
-      "type": "PR opened",
-      "title": "Fix: Button hover color now stays green (matches CircuitVerse scheme)",
-      "occured_at": "2025-12-09T11:40:00Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/Blog/pull/256",
-      "contributor": "ghanshyam2005singh",
-      "contributor_name": "ghanshyam2005singh",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
-    },
-    {
-      "slug": "pr-opened-3710387796",
-      "type": "PR opened",
-      "title": "fix(ui): prevent ElementsPanel from being dragged under Navbar (#260)",
-      "occured_at": "2025-12-09T11:11:45Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/691",
-      "contributor": "akritah",
-      "contributor_name": "akritah",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/69254659?v=4"
-    },
-    {
-      "slug": "pr-opened-3710312609",
-      "type": "PR opened",
-      "title": "Fix/260 elements panel navbar overlap",
-      "occured_at": "2025-12-09T10:53:12Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/690",
-      "contributor": "akritah",
-      "contributor_name": "akritah",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/69254659?v=4"
+      "slug": "pr-merged-3751202233",
+      "type": "PR Merged",
+      "title": "Fix typos errors across code and docs",
+      "closed_at": "2025-12-23T08:29:38Z",
+      "points": 5,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
     },
     {
       "slug": "pr-merged-3750110457",
