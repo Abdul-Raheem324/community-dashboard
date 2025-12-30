@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
-import { Activity, Calendar, GitCommit, Star, Trophy, GitPullRequest, Bug } from "lucide-react";
+import { Activity, Calendar, GitCommit, Star, Trophy, GitPullRequest, Bug, GitMerge } from "lucide-react";
 
 interface ContributorEntry {
   username: string;
@@ -36,7 +36,7 @@ export function ContributorCard({
   const getActivityIcon = (activityType: string) => {
     const type = activityType.toLowerCase();
     if (type.includes('commit')) return <GitCommit className="w-3 h-3" />;
-    if (type.includes('pr merged') || type.includes('merged')) return <GitPullRequest className="w-3 h-3 text-green-600" />;
+    if (type.includes('pr merged') || type.includes('merged')) return <GitMerge className="w-3 h-3 text-green-600" />;
     if (type.includes('pr opened') || type.includes('opened')) return <GitPullRequest className="w-3 h-3 text-blue-600" />;
     if (type.includes('pr') || type.includes('pull')) return <GitPullRequest className="w-3 h-3" />;
     if (type.includes('issue')) return <Bug className="w-3 h-3" />;
