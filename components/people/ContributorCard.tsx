@@ -17,9 +17,11 @@ interface ContributorEntry {
 
 interface ContributorCardProps {
   contributor: ContributorEntry;
-  onClick?: (contributor: ContributorEntry) => void;
+  onClick: (contributor: ContributorEntry) => void;
+  variant?: "grid" | "list";
   showStats?: boolean;
 }
+
 
 /* ---------------- ORDER + ICON NORMALIZATION ---------------- */
 
