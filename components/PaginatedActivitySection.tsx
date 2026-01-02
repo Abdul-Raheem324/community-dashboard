@@ -192,7 +192,7 @@ export function PaginatedActivitySection({
                 </Button>
 
                 <div className="flex items-center gap-1">
-                  {getPageNumbers().map((pageNum, index) => (
+                  {getPageNumbers().map((pageNum) => (
                     <Button
                       key={`${windowStart}-${pageNum}`}
                       variant={currentPage === pageNum ? "default" : "ghost"}
@@ -206,7 +206,35 @@ export function PaginatedActivitySection({
                     >
                       {pageNum}
                     </Button>
-                  ))}
+                  ))}  
+                  {(() => { 
+                    const windowEnd = windowStart + windowSize - 1;
+                    if(windowEnd >= totalPages) return null;
+                    const PageButton = (page: number) => (
+                      <Button
+                        key={`${windowStart}-${page}`}
+                        variant={currentPage === page ? "default" : "ghost"}
+                        size="sm"
+                        onClick={() => goToPage(page)}
+                        className={`h-8 w-8 p-0 cursor-pointer ${
+                          currentPage === page
+                            ? "bg-[#50B78B] text-white"
+                            : "hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B]"
+                        }`}
+                      >
+                        {page}
+                      </Button>
+                    );
+                    if(windowEnd === totalPages - 1){
+                      return PageButton(totalPages);
+                    }
+                    return(
+                      <>
+                        <span className="px-1 text-zinc-400">…</span>
+                        {PageButton(totalPages)}
+                      </>
+                    );
+                  })()}
                 </div>
 
                 <Button
