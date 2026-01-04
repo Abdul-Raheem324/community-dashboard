@@ -45,7 +45,13 @@ export default function NotFound() {
 
           <button
             aria-label="Go back to previous page"
-            onClick={() => router.back()}
+            onClick={() => {
+              if (window.history.length > 1) {
+                router.back();
+              } else {
+                router.push('/');
+              }
+            }}
             className="inline-flex items-center justify-center gap-2 rounded-lg border border-zinc-300 dark:border-zinc-700 px-6 py-3 text-zinc-700 dark:text-zinc-300 transition hover:bg-zinc-100 dark:hover:bg-zinc-800 focus:outline-none focus:ring-2 focus:ring-zinc-400/40 cursor-pointer"
           >
             <ArrowLeft className="h-5 w-5" />
