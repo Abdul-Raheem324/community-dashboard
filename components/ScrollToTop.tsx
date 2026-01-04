@@ -44,21 +44,20 @@ export function ScrollToTop() {
     });
   };
 
-  if (!isVisible) {
-    return null;
-  }
-
   return (
     <button
       onClick={scrollToTop}
-      className="fixed md:bottom-8 bottom-4 right-8 z-50 h-12 w-12 rounded-full shadow-lg 
-                 bg-emerald-600 hover:bg-emerald-700 
-                 dark:bg-emerald-500 dark:hover:bg-emerald-600
-                 text-white
-                 flex items-center justify-center
-                 transition-all duration-500 ease-in-out
-                 hover:scale-110 active:scale-95
-                 animate-in fade-in slide-in-from-bottom-4 cursor-pointer"
+      className={`fixed md:bottom-8 bottom-4 right-8 z-50 h-12 w-12 rounded-full shadow-lg
+            bg-emerald-600 hover:bg-emerald-700
+            dark:bg-emerald-500 dark:hover:bg-emerald-600
+            text-white flex items-center justify-center
+            transition-all duration-500 ease-in-out
+            hover:scale-110 active:scale-95 cursor-pointer
+            ${
+              isVisible
+                ? "opacity-100 translate-y-0 pointer-events-auto"
+                : "opacity-0 translate-y-6 pointer-events-none"
+            }`}
       aria-label="Scroll to top"
     >
       <ArrowUp className="h-5 w-5" />
