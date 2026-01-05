@@ -44,6 +44,7 @@ export default function NotFound() {
           </Link>
 
           <button
+            type="button"
             aria-label="Go back to previous page"
             onClick={() => {
               if (window.history.length > 1) {
