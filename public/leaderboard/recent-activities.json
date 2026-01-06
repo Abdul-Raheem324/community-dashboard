@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1767680548498,
+  "updatedAt": 1767702512727,
   "groups": [
     [
       "2025-12-31",
@@ -1201,14 +1201,6 @@
           "points": 2
         },
         {
-          "username": "h30s",
-          "name": null,
-          "title": "feat - Add global scroll-to-top button across all main pages",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6538",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
-          "points": 2
-        },
-        {
           "username": "haaasini01",
           "name": null,
           "title": "Add Points, PR and Issue sort options to filter menu and improve clear behavior",
@@ -1223,6 +1215,14 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/68",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 1
+        },
+        {
+          "username": "h30s",
+          "name": null,
+          "title": "feat - Add global scroll-to-top button across all main pages",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6538",
+          "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
+          "points": 2
         },
         {
           "username": "manmeetsantre",
@@ -1531,6 +1531,115 @@
           "title": "fix - canvas rendering issue after DevTools resize",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/709",
           "avatar_url": "https://avatars.githubusercontent.com/u/183717561?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-01-06",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Add 092vk to About page core team",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6573",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Add CircuitVerse Member 092vk to About Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6571",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #120",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/120",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #131",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/131",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Bug - leaderboard card layout resets when switching between weekly/monthly/yearly views",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/135",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - add skeleton loading cards for leaderboard page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/134",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "🐞 Bug - Favicon not showing on CircuitVerse main website",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6569",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "fix(mailer) - patch aws-actionmailer-ses to wrap recipients in array",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6570",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+          "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "fix - missing recent contributions for some contributor profiles",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/137",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "fix - footer layout responsiveness on tablet and smaller screens",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/131",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 5
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Pagination keeps scroll position on page change",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/136",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 1
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "Fix - N+1 query in FeaturedCircuitsController",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6572",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
+        },
+        {
+          "username": "RiyaS905",
+          "name": null,
+          "title": "Update routes.rb",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6574",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
           "points": 2
         }
       ]
@@ -2585,35 +2694,6 @@
           "title": "Improve search bar UX - center alignment and inline search behavior",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/471",
           "avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4",
-          "points": 1
-        }
-      ]
-    ],
-    [
-      "2026-01-06",
-      [
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Bug - leaderboard card layout resets when switching between weekly/monthly/yearly views",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/135",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - add skeleton loading cards for leaderboard page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/134",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "🐞 Bug - Favicon not showing on CircuitVerse main website",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6569",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
         }
       ]
