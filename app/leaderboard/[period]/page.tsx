@@ -3,6 +3,7 @@ import path from "path";
 import { Suspense } from "react";
 import LeaderboardView from "@/components/Leaderboard/LeaderboardView";
 import { type LeaderboardEntry } from "@/components/Leaderboard/LeaderboardCard";
+import { notFound } from "next/navigation";
 
 export function generateStaticParams() {
   return [
@@ -31,12 +32,21 @@ type LeaderboardJSON = {
   hiddenRoles: string[];
 };
 
+const VALID_PERIODS = ["week", "month", "year"] as const;
+function isValidPeriod(period: string): period is "week" | "month" | "year" {
+  return VALID_PERIODS.includes(period as "week" | "month" | "year");
+}
+
 export default async function Page({
   params,
 }: {
   params: Promise<{ period: "week" | "month" | "year" }>;
 }) {
   const { period } = await params;
+  // navigate to not found page, if time periods are othen week/month/year
+  if (!isValidPeriod(period)) {
+    notFound();
+  }
 
   const filePath = path.join(
     process.cwd(),
